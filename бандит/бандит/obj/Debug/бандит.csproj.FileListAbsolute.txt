@@ -1,0 +1,10 @@
+C:\Users\Виктория\source\repos\бандит\бандит\obj\Debug\бандит.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\бандит\бандит\obj\Debug\бандит.Form2.resources
+C:\Users\Виктория\source\repos\бандит\бандит\obj\Debug\бандит.Properties.Resources.resources
+C:\Users\Виктория\source\repos\бандит\бандит\obj\Debug\бандит.csproj.GenerateResource.cache
+C:\Users\Виктория\source\repos\бандит\бандит\bin\Debug\бандит.exe.config
+C:\Users\Виктория\source\repos\бандит\бандит\bin\Debug\бандит.exe
+C:\Users\Виктория\source\repos\бандит\бандит\bin\Debug\бандит.pdb
+C:\Users\Виктория\source\repos\бандит\бандит\obj\Debug\бандит.Form1.resources
+C:\Users\Виктория\source\repos\бандит\бандит\obj\Debug\бандит.exe
+C:\Users\Виктория\source\repos\бандит\бандит\obj\Debug\бандит.pdb
