@@ -1,0 +1,7 @@
+
+kryg 12
+kryg 7
+kryg 6
+kryg 5
+treygolnik 12 2
+treygolnik 2 3

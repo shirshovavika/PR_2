@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\фигуры\фигуры\bin\Debug\netcoreapp3.1\фигуры.exe
+C:\Users\user\source\repos\фигуры\фигуры\bin\Debug\netcoreapp3.1\фигуры.deps.json
+C:\Users\user\source\repos\фигуры\фигуры\bin\Debug\netcoreapp3.1\фигуры.runtimeconfig.json
+C:\Users\user\source\repos\фигуры\фигуры\bin\Debug\netcoreapp3.1\фигуры.runtimeconfig.dev.json
+C:\Users\user\source\repos\фигуры\фигуры\bin\Debug\netcoreapp3.1\фигуры.dll
+C:\Users\user\source\repos\фигуры\фигуры\bin\Debug\netcoreapp3.1\фигуры.pdb
+C:\Users\user\source\repos\фигуры\фигуры\obj\Debug\netcoreapp3.1\фигуры.csprojAssemblyReference.cache
+C:\Users\user\source\repos\фигуры\фигуры\obj\Debug\netcoreapp3.1\фигуры.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\фигуры\фигуры\obj\Debug\netcoreapp3.1\фигуры.AssemblyInfo.cs
+C:\Users\user\source\repos\фигуры\фигуры\obj\Debug\netcoreapp3.1\фигуры.dll
+C:\Users\user\source\repos\фигуры\фигуры\obj\Debug\netcoreapp3.1\фигуры.pdb
